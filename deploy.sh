@@ -1,5 +1,7 @@
 #!/bin/bash
 
+npm install netlify-cli -g
+
 # Clone the documentation directory of the OasisMenu repository
 git clone --depth=1 --branch=main https://github.com/shivamdevs/OasisMenu.git ./myoasis-docs-oasismenu
 
