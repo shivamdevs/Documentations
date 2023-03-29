@@ -1,2 +1,3 @@
 # Documentations
-A documentational website for all projects.
+
+A documentation website for all projects.
